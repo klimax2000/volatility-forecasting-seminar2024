@@ -331,7 +331,7 @@ This seminar was a challenging but rewarding introduction to empirical financial
 
 The extended script now allows switching between indices (via `symbol`) to investigate hypothesis robustness across markets.
 
----ö
+---
 
 ## Future Work & Related Fields
 
