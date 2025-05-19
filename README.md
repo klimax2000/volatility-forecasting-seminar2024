@@ -2,7 +2,7 @@
 
 This repository contains the full implementation and results of my first Master's seminar project at the University of Regensburg, at the [Chair of Statistics and Risk Management](https://www.uni-regensburg.de/wirtschaftswissenschaften/bwl-roesch/home/index.html) of Prof. Dr. Daniel Rösch. My seminar paper compared machine learning models with linear benchmarks for **one-day-ahead realized variance forecasting** across multiple international stock indices.
 
-![SPX RV History](./Figure_1png)
+![SPX RV History](./Figure_1.png)
 
 While this was my first exposure to such a modeling task, it was a major personal leap—and I’ve tried to document and structure everything with clarity and the best of my knowledge. For questions and improvement suggestions feel free too [reach out to me](https://de.linkedin.com/in/vincent-heigl-95b620178)!
 
