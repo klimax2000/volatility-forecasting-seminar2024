@@ -30,10 +30,9 @@ Date,Symbol,close_price,open_to_close,medrv,rk_th2,bv_ss,rsv_ss,nobs,rv5,rv10,rv
 2000-01-04 00:00:00+00:00,.AEX,642.25,-0.033605672952653265,7.519469263866767e-05,0.00020050497227363834,0.00020703689373144263,0.0001469018779968006,1785.0,0.00020130565333282923,0.0002605007092433507,0.0002605007092433507,0.0001987200522791225,90416.0,664.2,0.0004225272585042087,0.00020130565333282923,163016.0,0.0001469018779968006,0.00020703689373144263
 ...
 ```
-
+Note: The dataset is not included in this repository, as I do not have permission to share it.
 For more information about the dataset, see the [CRAN documentation](https://search.r-project.org/CRAN/refmans/bvhar/html/oxfordman.html) and the [Oxford-Man Institute Realized Library](https://oxford-man.ox.ac.uk/research/realized-library/).
 
-Note: The dataset is not included in this repository.
 ---
 
 ## Methodology
